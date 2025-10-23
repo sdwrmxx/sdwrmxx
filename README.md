@@ -1,7 +1,4 @@
 ## Hi there 👋
-My name is Roman and I'm from Russia
-
-_I use Arch btw_
 <!--
 **sdwrmxx/sdwrmxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
